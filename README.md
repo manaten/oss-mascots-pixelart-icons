@@ -9,8 +9,6 @@ Cute animated pixelart icons of major computing related mascots.
 | ------------- | ------------- | ------------- | ------------- |
 | ![Java](./java.gif) | ![Golang](./golang.gif) | ![D](./d.gif) | ![Jenkins](./jenkins.gif) |
 
-| [Linux](https://www.linuxfoundation.org/) |
-| ------------- |
-| ![Linux](./linux.gif) |
-
-
+| [Linux](https://www.linuxfoundation.org/) | [PHP](http://php.net/) |
+| ------------- | ------------- |
+| ![Linux](./linux.gif) | ![PHP](./php.gif) |
