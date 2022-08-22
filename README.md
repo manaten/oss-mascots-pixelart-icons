@@ -1,5 +1,5 @@
-# computing-mascots-pixelart-icons
-Cute animated pixelart icons of major computing related mascots.
+# oss-mascots-pixelart-icons
+Cute animated pixelart icons of major oss related mascots.
 
 | [Octocat](https://octodex.github.com/) | [Hubot](https://hubot.github.com/) | [Android](https://www.android.com/) | [Docker](https://www.docker.com/) |
 | ------------- | ------------- | ------------- | ------------- |
